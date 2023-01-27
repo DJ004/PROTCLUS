@@ -2,7 +2,7 @@
 #-------
 # USAGE
 #-------
-# sh PROTCLUS.sh                           # Running in foreground
+# bash PROTCLUS.sh                         # Running in foreground
 # - OR -
 # chmod 755 PROTCLUS.sh
 # ./PROTCLUS.sh
