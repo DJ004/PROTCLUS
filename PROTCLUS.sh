@@ -7,7 +7,7 @@
 # chmod 755 PROTCLUS.sh
 # ./PROTCLUS.sh
 # ------
-# nohup sh PROTCLUS.sh > PROTCLUS.log &    # Running in background
+# nohup bash PROTCLUS.sh > PROTCLUS.log &  # Running in background
 
 #-------
 # INTRO
