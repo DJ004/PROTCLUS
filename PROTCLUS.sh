@@ -44,7 +44,7 @@
 protein_count=16             # number of proteins in the system
 protein_name="PROTEIN_NAME"
 INDEX="group.ndx"            # index containing each protein as a separate group starting from group #1
-TPR="../TPR_FILE.tpr"        # TPR of ONLY PROTEIN; Specify path if not in current dir
+TPR="../TPR_FILE.tpr/.gro"   # TPR of ONLY PROTEIN; Specify path if not in current dir # GRO of ONLY PROTEIN; gro file works just as well for mindist -s and is easier to generate
 XTC="../XTC_FILE.xtc"        # XTC of ONLY PROTEIN; Specify path if not in current dir
 TIME_BEGIN=0
 TIME_END=24000000            # in picoseconds
